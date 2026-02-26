@@ -24,7 +24,6 @@
 <br><br>
 
 - :school: I am a `Student` of Computer Science And Engineering at [Alvas Institue Of Engineering And Technology](https://www.aiet.org.in/).
-- :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently learning `Computer Science`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume)..
