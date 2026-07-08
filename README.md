@@ -26,7 +26,7 @@
 - :school: I am a `Student` of Computer Science And Engineering at [Alvas Institue Of Engineering And Technology](https://www.aiet.org.in/).
 - :student: I’m currently learning `Computer Science`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume)..
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1jo2D9fIjp_jHtUPlWTJCnO0qkfbw3Dvo/view?usp=sharing)..
 <br>
 
 
